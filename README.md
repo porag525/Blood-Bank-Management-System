@@ -100,7 +100,11 @@ A comprehensive system design was created to meet the specified requirements.
 **Low-Level Design (LLD):**  
 - GUI wireframes for user interactions.  
 - Class diagrams for representing entities (e.g., Donor, Blood-stock, Recipient).  
-- Sequence diagrams for processes like blood donation and allocation.  
+- Sequence diagrams for processes like blood donation and allocation.
+
+  
+![UML](https://github.com/user-attachments/assets/1d856fbc-150f-4c9f-a60e-57be08108064)
+
 
 ### 2.4. Implementation  
 The system was developed in modular stages.  
